@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: home
 title: "Andrew Chingos"
 author_profile: true
+header: "/assets/image.png"
 ---
 
 # Andrew Chingos
