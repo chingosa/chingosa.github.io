@@ -14,13 +14,13 @@ University of St Andrews
 ---
 ## About me
 
-<div class="about-container">
+<div class="grid">
 
-<div class="about-image">
-<img src="/assets/484210092_953700256538302_6609529169045111997_n.jpg" alt="Andrew Chingos" width="250">
+<div class="grid__item" style="width: 30%">
+<img src="/assets/484210092_953700256538302_6609529169045111997_n.jpg" alt="Andrew Chingos" style="border-radius: 50%;">
 </div>
 
-<div class="about-text">
+<div class="grid__item" style="width: 65%">
 
 I am a PhD researcher in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home) and the [St Andrews Ocean Dynamics Lab](https://odyn-standrews.github.io/), where I am supervised by Michael Byrne and Graeme MacGilchrist.
 
@@ -33,7 +33,6 @@ I use climate models, observations, and simple theory to understand the fundamen
 </div>
 
 </div>
-
 ---
 
 ## Recent pre-prints
