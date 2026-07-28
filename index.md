@@ -1,8 +1,6 @@
 ---
 layout: home
-title: Home
 ---
-
 # Andrew Chingos
 
 PhD Researcher in Climate Dynamics  
