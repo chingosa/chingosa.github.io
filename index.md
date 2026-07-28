@@ -1,11 +1,10 @@
 ---
 layout: home
 title: "Andrew Chingos"
-author_profile: true
-header: "/assets/image.png"
+author_profile: False
+header: 
+  image: /assets/image.png
 ---
-
-# Andrew Chingos
 
 PhD Researcher in Climate Dynamics  
 School of Earth and Environmental Sciences  
@@ -15,39 +14,21 @@ University of St Andrews
 
 ## About me
 
-I am a PhD researcher studying the physical processes that control climate change, with a focus on **extreme temperatures, land–atmosphere interactions, and tropical hydroclimate**.
+I am a PhD researcher in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home), where I am supervised by Michael Byrne and Graeme MacGilchrist. My research focuses on the physical processes that control climate change, with particular emphasis on **terrestrial humidity, land–atmosphere interactions, and large-scale climate dynamics**.
 
-My research uses climate models, observations, and theory to understand how regional climate responses emerge from fundamental physical constraints. I am particularly interested in how atmospheric dynamics and moist static energy shape changes in land temperature and humidity under global warming.
-
----
-
-## Research
-
-My current research focuses on three main areas:
-
-### 🌎 Land–atmosphere interactions
-
-Understanding how land regions respond differently from oceans under climate change, and how constraints from atmospheric moisture and energy balance can improve projections of future hydroclimate.
-
-### 🌡️ Extreme temperatures
-
-Investigating the physical mechanisms controlling changes in temperature extremes, including the roles of humidity, radiation, and land surface feedbacks.
-
-### ☁️ Atmospheric dynamics
-
-Exploring how atmospheric circulation and moist static energy transport regulate regional climate responses, including weak temperature gradient constraints and tropical convection.
+I use climate models, observations, and simple theory to understand the fundamental controls on climate responses in a warming world. I am particularly interested in how theoretical frameworks and simplified models can improve our understanding of processes that remain challenging to represent in comprehensive climate models.
 
 [Learn more about my research →](/research/)
 
 ---
 
-## Recent publications
+## Recent pre-prints
 
-**Amplified drying of tropical land constrained by physical theory**
+**Amplified decreases in relative humidity over tropical land constrained by physical theory**
 
-Andrew Chingos, Michael Byrne, Graeme MacGilchrist, et al.
+**Andrew Chingos**, Graeme MacGilchrist, and Michael Byrne
 
-*Proceedings of the National Academy of Sciences* (2026)
+*Proceedings of the National Academy of Sciences* (Under Review)
 
 [Read more →](/publications/)
 
@@ -55,6 +36,8 @@ Andrew Chingos, Michael Byrne, Graeme MacGilchrist, et al.
 
 ## Contact
 
-Email: your.email@st-andrews.ac.uk
+Feel free to reach out!
 
-[Google Scholar](#) | [GitHub](#) | [ORCID](#)
+Email: aec21@st-andrews.ac.uk
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=XtkSVHgAAAAJ) | [GitHub](https://github.com/chingosa) | [ORCID](https://orcid.org/0000-0002-0113-8963)
