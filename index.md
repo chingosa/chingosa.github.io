@@ -1,7 +1,9 @@
 ---
-layout: home
-title: Home
+layout: splash
+title: "Andrew Chingos"
+author_profile: true
 ---
+
 # Andrew Chingos
 
 PhD Researcher in Climate Dynamics  

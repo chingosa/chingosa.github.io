@@ -1,12 +1,18 @@
-theme: minima
-main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
+title: "Andrew Chingos"
+description: "PhD Researcher in Climate Dynamics"
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
 include:
   - _pages
+
+minimal_mistakes_skin: "air" # options: air, aqua, contrast, dark, dirt, neon, plum, sunrise
+
+author:
+  name: "Andrew Chingos"
+  bio: "PhD Researcher in Climate Dynamics"
+  location: "University of St Andrews"
