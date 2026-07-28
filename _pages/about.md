@@ -8,6 +8,6 @@ classes: wide
 
 # About
 
-I am a PhD student in Climate Dynamics at the University of St Andrews.
+I am a PhD student in Climate Dynamics at the University of St Andrews where I am supervised by Mi
 
 My research focuses on tropical climate dynamics, land humidity, and extreme temperatures.

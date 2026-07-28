@@ -14,8 +14,8 @@ University of St Andrews
 ---
 ## About me
 
-<figure class="align-left" style="width: 250px">
-  <img src="/assets/profile.jpg">
+<figure class="align-left" style="width: 300px">
+  <img src="/assets/484210092_953700256538302_6609529169045111997_n.jpg">
 </figure>
 
 I am a PhD researcher in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home) and the [St Andrews Ocean Dynamics Lab](https://odyn-standrews.github.io/), where I am supervised by Michael Byrne and Graeme MacGilchrist.
@@ -26,9 +26,6 @@ I use climate models, observations, and simple theory to understand the fundamen
 
 [Learn more about my research →](/research/)
 
-</div>
-
-</div>
 ---
 
 ## Recent pre-prints
