@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: single
 title: "Andrew Chingos"
 author_profile: False
+classes: wide
 header: 
   image: /assets/imagecrop.png
 ---
@@ -11,14 +12,27 @@ School of Earth and Environmental Sciences
 University of St Andrews
 
 ---
-
 ## About me
 
-I am a PhD researcher in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home) and the [St Andrews Ocean Dynamics Lab](https://odyn-standrews.github.io/), where I am supervised by Michael Byrne and Graeme MacGilchrist. My research focuses on the physical processes that control climate change, with particular emphasis on **terrestrial humidity, land–atmosphere interactions, and large-scale climate dynamics**.
+<div class="about-container">
 
-I use climate models, observations, and simple theory to understand the fundamental controls on climate responses in a warming world. I am particularly interested in how theoretical frameworks and simplified models can improve our understanding of processes that remain challenging to represent in comprehensive climate models.
+<div class="about-image">
+<img src="/assets/484210092_953700256538302_6609529169045111997_n.jpg" alt="Andrew Chingos" width="250">
+</div>
+
+<div class="about-text">
+
+I am a PhD researcher in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home) and the [St Andrews Ocean Dynamics Lab](https://odyn-standrews.github.io/), where I am supervised by Michael Byrne and Graeme MacGilchrist.
+
+My research focuses on the physical processes that control climate change, with particular emphasis on **terrestrial humidity, land–atmosphere interactions, and large-scale climate dynamics**.
+
+I use climate models, observations, and simple theory to understand the fundamental controls on climate responses in a warming world.
 
 [Learn more about my research →](/research/)
+
+</div>
+
+</div>
 
 ---
 
