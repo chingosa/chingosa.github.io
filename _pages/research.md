@@ -6,8 +6,6 @@ author_profile: False
 classes: wide
 ---
 
-# Research
-
 I am a PhD researcher in climate dynamics at the University of St Andrews. My research investigates how physical processes within the climate system determine regional climate change, with a particular focus on extreme temperatures, land–atmosphere interactions, and tropical hydroclimate.
 
 ---

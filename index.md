@@ -18,11 +18,11 @@ University of St Andrews
   <img src="/assets/484210092_953700256538302_6609529169045111997_n.jpg">
 </figure>
 
-I am a PhD researcher in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home) and the [St Andrews Ocean Dynamics Lab](https://odyn-standrews.github.io/), where I am supervised by Michael Byrne and Graeme MacGilchrist.
+I am a 2ed year PhD student in the [St Andrews Climate Dynamics Lab](https://sites.google.com/view/climate-dynamics-lab/home) and the [St Andrews Ocean Dynamics Lab](https://odyn-standrews.github.io/), where I am supervised by Michael Byrne and Graeme MacGilchrist.
 
 My research focuses on the physical processes that control climate change, with particular emphasis on **terrestrial humidity, land–atmosphere interactions, and large-scale climate dynamics**.
 
-I use climate models, observations, and simple theory to understand the fundamental controls on climate responses in a warming world.
+I use climate models, observations, and simple theory to understand the fundamental controls on climate responses in a warming world. I am particularly interested in connecting large-scale atmospheric dynamics with regional climate responses, improving our physical understanding of the processes controlling thermodynamic responses over land, and using this understanding to improve confidence in climate projections.
 
 [Learn more about my research →](/research/)
 
