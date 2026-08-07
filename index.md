@@ -44,4 +44,17 @@ Feel free to reach out!
 
 Email: [aec21@st-andrews.ac.uk](mailto:aec21@st-andrews.ac.uk)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=XtkSVHgAAAAJ) | [GitHub](https://github.com/chingosa) | [ORCID](https://orcid.org/0000-0002-0113-8963)
+- 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XtkSVHgAAAAJ)
+- 💻 [GitHub](https://github.com/chingosa)
+- 🆔 [ORCID](https://orcid.org/0000-0002-0113-8963)
+- 🦋 [Bluesky](https://bsky.app/profile/a-chingos.bsky.social)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=XtkSVHgAAAAJ) | [GitHub](https://github.com/chingosa) | [ORCID](https://orcid.org/0000-0002-0113-8963) | [BlueSky](https://bsky.app/profile/a-chingos.bsky.social)
+
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=XtkSVHgAAAAJ){: .btn}
+[GitHub](https://github.com/chingosa){: .btn}
+[ORCID](https://orcid.org/0000-0002-0113-8963){: .btn}
+[Bluesky](https://bsky.app/profile/a-chingos.bsky.social){: .btn}
+
+
