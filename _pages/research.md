@@ -20,7 +20,7 @@ We theoretically expect terrestrial relative humidity to decline in a warming wo
 - What controls the spread of projections across climate models?
 - Can physical theory improve predictions of future hydroclimate change?
 
-Investigating these questions led to the identification of an emergent constraint on tropical land relative humidity change, which we are currently preparing for publication in *PNAS*.
+Investigating these questions led to the identification of an emergent constraint on tropical land relative humidity change, which we are currently under review at *PNAS*.
 
 I have also contributed to work led by Mike Byrne using isotope-enabled climate models to investigate the relative contributions of oceanic and terrestrial sources of atmospheric water vapour. This work is currently under review at the *Journal of Climate*.
 

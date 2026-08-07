@@ -30,11 +30,9 @@ I use climate models, observations, and simple theory to understand the fundamen
 
 ## Recent pre-prints
 
-**Amplified decreases in relative humidity over tropical land constrained by physical theory**
+* Byrne, M. P., **Chingos, A**., Duffield, J. A. M., Laguë, M. and O'Gorman, P. A.: [**Land humidity across climate states: ocean and terrestrial influences**](https://essopenarchive.org/doi/abs/10.22541/essoar.15006320/v1), *Journal of Climate*, submitted.
 
-**Andrew Chingos**, Graeme MacGilchrist, and Michael Byrne
-
-*Proceedings of the National Academy of Sciences* (Under Review)
+* Chingos, A., MacGilchrist, G. and Byrne, M. P.: [**Amplified decreases in relative humidity over tropical land constrained by physical theory**](https://www.researchsquare.com/article/rs-8604145/v1), *Proceedings of the National Academies of Sciences*, revised.
 
 [Read more →](/publications/)
 
@@ -44,6 +42,6 @@ I use climate models, observations, and simple theory to understand the fundamen
 
 Feel free to reach out!
 
-Email: aec21@st-andrews.ac.uk
+Email: [aec21@st-andrews.ac.uk](mailto:aec21@st-andrews.ac.uk)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XtkSVHgAAAAJ) | [GitHub](https://github.com/chingosa) | [ORCID](https://orcid.org/0000-0002-0113-8963)
